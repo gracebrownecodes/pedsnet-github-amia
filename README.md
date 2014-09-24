@@ -22,3 +22,4 @@
 - The next step will overwrite the output files, so move them if you want to save them
 - Source `run.sh` (a python virtualenv is suggested since python dependencies will be installed)
 - The output files here have been manually de-identified by removing site-specific repositories' names and contributors' names, but this identifying data will be output by the scripts when the analysis is re-run
+- The averages and standard deviations in the `org_weekly_data.csv` file as well as the average age and total lines calculations in the `repo_summary_data.csv` where added manually using MS Excel, so those data will not be automatically generated when the analysis is re-run
