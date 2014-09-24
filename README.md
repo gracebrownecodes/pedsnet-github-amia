@@ -1,4 +1,4 @@
-# Development of PEDSNet Data Extraction Code Using GitHub
+# Promoting Data Quality in a Clinical Data Research Network Using GitHub
 ### Abstract and supporting code for an AMIA 2015 submission
 
 #### Output Files:
