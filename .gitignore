@@ -1,4 +1,3 @@
-# Vim swap files
-*.swp
 # Config file
 .config.json
+.Rhistory
